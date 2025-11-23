@@ -53,7 +53,7 @@
 - Created **12 training and 6 testing datasets** combining device + manipulation + country.  
 - Used **GradCAM/GradCAM++** to highlight forged areas and interpret model decisions.  
 - Achieved strong **cross-device accuracy** and clear visual explanations.
-- 🔗 *Add repo link here*
+- 🔗 **
 
 ### 🌿 University of Galway – Sphagnum Growth Prediction (ML Research)
 - Predicted sphagnum moss growth using factors like **temperature, humidity, and rainfall**.  
@@ -67,7 +67,7 @@
 - Stored **20,000+ review embeddings** and designed the full conversational retrieval pipeline.  
 - Built a **Flask + HTML/CSS/JS frontend** for smooth user interaction.  
 - Delivered **highly relevant product recommendations** with fast vector-based responses.
-- 🔗 *Add repo link here*
+- 🔗 *https://github.com/preetibhattacharya/Product-Recommender-RAG*
 
 ### 🔐 SANTA – Secure Automatic Network Topology Analyzer (SIH Project)
 - Developed **backend APIs** using **Node.js, Express, PostgreSQL** for a full network-monitoring system.  
