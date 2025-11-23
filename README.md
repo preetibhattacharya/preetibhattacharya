@@ -45,11 +45,42 @@
 
 
 
-### 🔹 **AI Product Recommendation RAG System**
-- RAG system using **AstraDB + HuggingFace + LangChain + Groq**  
-- Converts reviews → embeddings → context-aware responses  
-- **Tech:** Python, LLMs, Vector DB  
-🔗 *Add repo link here*
+## 🔬 Research & Projects
+
+### 🔍 IISER Bhopal – Deepfake Detection (Research Internship)
+- Worked in the Trustworthy BiometraVision Lab on detecting manipulated ID documents from 14 countries captured using Android, iPhone, and scanners.  
+- Built models using **ResNet18, ResNet50, Swin Transformer, CNNs** with **PyTorch + OpenCV**.  
+- Created **12 training and 6 testing datasets** combining device + manipulation + country.  
+- Used **GradCAM/GradCAM++** to highlight forged areas and interpret model decisions.  
+- Achieved strong **cross-device accuracy** and clear visual explanations.
+- 🔗 *Add repo link here*
+
+### 🌿 University of Galway – Sphagnum Growth Prediction (ML Research)
+- Predicted sphagnum moss growth using factors like **temperature, humidity, and rainfall**.  
+- Trained **Random Forest, Extra Trees, Decision Trees** for non-linear relationships.  
+- Cleaned and processed environmental datasets and compared model performance.  
+- **Extra Trees** delivered the most stable results and explained key environmental drivers.
+- 🔗 *Add repo link here*
+
+### 🤖 RekomAI – LLM-Based Product Recommender
+- Built a chatbot using **LLaMA 3.3 + LangChain + HuggingFace + AstraDB** for vector search.  
+- Stored **20,000+ review embeddings** and designed the full conversational retrieval pipeline.  
+- Built a **Flask + HTML/CSS/JS frontend** for smooth user interaction.  
+- Delivered **highly relevant product recommendations** with fast vector-based responses.
+- 🔗 *Add repo link here*
+
+### 🔐 SANTA – Secure Automatic Network Topology Analyzer (SIH Project)
+- Developed **backend APIs** using **Node.js, Express, PostgreSQL** for a full network-monitoring system.  
+- Worked on modules for **topology, traffic, device status, alerts, and security insights**.  
+- Designed optimized **SQL queries and clean routing** for smooth frontend integration.  
+- Delivered a **stable and scalable backend** supporting multi-module operations.
+- 🔗 *Add repo link here*
+
+---
+
+
+ 
+
 
 ---
 
@@ -92,8 +123,8 @@
 ---
 
 ## 📫 Connect With Me  
-- **LinkedIn:** *Add your link*  
-- **Email:** *Add email here*
+- **LinkedIn:** *www.linkedin.com/in/preeti-bhattacharya-627986270*  
+- **Email:** *preetibhattacharya13@gmail.com*
 
 ---
 
