@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preeti</h1>
-<h3 align="center">AI/ML & Data Science Enthusiast | RAG • LLMs • NLP • ML Engineering</h3>
+<h3 align="center">AI/ML & Data Science Enthusiast | RAG • Deep Learning • ML Engineering</h3>
 
 ---
 
