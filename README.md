@@ -60,7 +60,7 @@
 - Trained **Random Forest, Extra Trees, Decision Trees** for non-linear relationships.  
 - Cleaned and processed environmental datasets and compared model performance.  
 - **Extra Trees** delivered the most stable results and explained key environmental drivers.
-- 🔗 *Add repo link here*
+
 
 ### 🤖 RekomAI – LLM-Based Product Recommender
 - Built a chatbot using **LLaMA 3.3 + LangChain + HuggingFace + AstraDB** for vector search.  
