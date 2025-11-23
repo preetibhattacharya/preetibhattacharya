@@ -53,7 +53,7 @@
 - Created **12 training and 6 testing datasets** combining device + manipulation + country.  
 - Used **GradCAM/GradCAM++** to highlight forged areas and interpret model decisions.  
 - Achieved strong **cross-device accuracy** and clear visual explanations.
-- 🔗 **
+- 🔗 *https://github.com/preetibhattacharya/FantasyIDiap-ICCV-Challenge---Image-DeepFake-Detection-and-Binary-Classification*
 
 ### 🌿 University of Galway – Sphagnum Growth Prediction (ML Research)
 - Predicted sphagnum moss growth using factors like **temperature, humidity, and rainfall**.  
